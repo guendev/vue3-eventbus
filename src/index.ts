@@ -1,5 +1,6 @@
 import mitt from 'mitt'
-import { App } from 'vue'
+import {App} from 'vue'
+
 const emitter = mitt()
 
 // Cutsom type
