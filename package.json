@@ -1,7 +1,7 @@
 {
   "name": "@nguyenshort/vue3-mitt",
   "description": "Vue3 eventbus using mitt",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "scripts": {
     "build": "vite build"
   },
